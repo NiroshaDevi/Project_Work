@@ -6,7 +6,6 @@ This project aims to delve into the dynamics of customer churn within an e-comme
 utilizing historical transactional data to uncover underlying patterns and drivers of churn.
 
 
-
 USE ecomm;
 
 -- Disable safe updates for this session (so UPDATE ... without WHERE allowed in dev)
